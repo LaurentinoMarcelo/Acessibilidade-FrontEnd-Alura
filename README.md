@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
- <a href="#sobre-o-projeto">Sobre</a> •
+ <a href="#sobre-o-projeto">Sobre o projeto</a> •
  <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#layout">Layout</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
@@ -47,14 +47,14 @@ Esse projeto foi totalmente focado em usuários que fazem uso dos leitores de te
   <img title="Página produtos" src="img/index6.png" />
   
   <img title="Página produtos" src="img/index7.png" />
-  ---
+  
 
 ## 🎨Layout
 
-Os aquivos tanto de hmlt e css foi fornecido pelo professor do Alura 
+Os aquivos tanto de hmtl e css foram fornecidos pelo professor do Alura 
 [Natan Souza](https://www.linkedin.com/in/designernatan/)
 
-
+---
 ### 🛠Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -62,7 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/)
 - [VisualStudio](https://visualstudio.microsoft.com/pt-br/)
-
+- [NVDA](https://www.nvaccess.org/)
 ---
 
 
